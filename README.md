@@ -1,29 +1,24 @@
-## Hi, I'm Rohit 👋
+# 💫 About Me:
+I'm Rohit, an AI/ML engineer in Dublin finishing an MSc in Human Centred AI at TU Dublin.<br><br>I build agentic AI systems and study how to make them fairer  from local LLM agents with real <br>tool calling to bias audits on generative model outputs.<br><br>- 🔭 Currently building: a local AI assistant (Python, Ollama, Llama 3.2 Vision) with a ReAct-style <br>  agentic loop, sub-2s latency, zero cloud dependency<br>- 🎓 MSc dissertation: audited cultural/geographic bias across 300+ AI-generated outputs using <br>  WinoBias, StereoSet, and CrowS Pairs — 85% stereotype classification consistency<br>- ☁️ Background in cloud & platform engineering: AWS (EC2, VPC, IAM), GCP Vertex AI, Kubernetes, Docker<br>- 🧠 Interests: LLMs, agentic workflows, prompt engineering, responsible AI<br>- 🎧 Also produce electronic music as **TOLTEC**<br>- 📍 Dublin, Ireland<br><br>**Reach me:** [LinkedIn](https://linkedin.com/in/rohitbhatia08) · rohit.bhatia88888@gmail.com<br><br>
 
-AI/ML engineer building agentic LLM systems and researching bias in generative AI.
 
-**Recent work:**
-- 🤖 [Local AI Assistant](#) — local ReAct agent with tool-calling, vision input, sub-2s latency, no cloud dependency
-- ⚖️ Bias Detection in Generative AI (MSc dissertation) — audited 300+ AI outputs for representation bias using WinoBias, StereoSet & CrowS Pairs
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitbhatia08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit.bhatia88888@gmail.com) 
 
-📍 Dublin | 🎧 also DJ/produce as TOLTEC
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rohitbhatia88888-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rohitbhatia88888-a11y&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitbhatia88888-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🛠️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohitbhatia88888-a11y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 📊 GitHub Stats
+---
+[![](https://komarev.com/ghpvc/?username=rohitbhatia88888-a11y&icon=2&color=0)](https://visitcount.itsvg.in)
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitbhatia88888-a11y&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhatia88888-a11y&layout=compact&theme=radical&hide_border=true)
-
-**Reach me:** [LinkedIn](https://linkedin.com/in/rohitbhatia08) · rohit.bhatia88888@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
